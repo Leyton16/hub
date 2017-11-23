@@ -1,0 +1,190 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<meta charset="utf-8">
+<title>Aplic. Web de jQuery Mobile</title>
+<link href="jquery.mobile-1.0.min.css" rel="stylesheet" type="text/css"/>
+<script src="jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="jquery.mobile-1.0.min.js" type="text/javascript"></script>
+</head> 
+<body> 
+
+<div data-role="page" id="page">
+	<div data-role="header">
+		<table width="465" align="center">
+        <td width="112"><img src="2logo.png" width="100"></td>
+        <td width="360" align="center"><font face="Comic Sans MS, cursive" size="+2" >Viaja seguro con Reserticks</font></td>
+        </table>
+  </div>
+	<div data-role="content">
+    <div class="contenido">
+    <p>Contenido sobre la App Reserticks.com</p>
+    hasdhoadshoh<br>dssdasds
+    daa
+    <p>ugu</p>
+    </div>
+    </div>
+	<div class="foot">
+		<table align="center">
+        <td width="93" align="center"><a href="index.html" class="link"><img src="images/inicio.png"></a><br>Inicio</td>
+        <td width="93" align="center"><a href="#page2" class="link"><img src="images/reser.png"></a><br>Reservar</td>
+        <td width="93" align="center"><a href="#page3" class="link"><img src="images/via.png"></a><br>Mis viajes</td>
+        <td width="93" align="center"><a href="#page4" class="link"><img src="images/cuen.png"></a><br>Mi cuenta</td>
+        <td width="93" align="center"><a href="#page5" class="link"><img src="images/info.png"></a><br>Información</td>
+        </table>
+	</div>
+</div>
+
+<div data-role="page" id="page2">
+	<div data-role="header">
+		<h1>Reservaciones</h1>
+	</div>
+	<div data-role="content">	
+		<div class="contenido">
+        <p>Reserva tus boletos ya!</p><p>Con Reserticks ahorras tu tiempo y dinero.</p>
+        </div>		
+	</div>
+	<div data-role="footer">
+		<table align="center">
+        <td width="93" align="center"><a href="index.html" class="link"><img src="images/inicio.png"></a><br>Inicio</td>
+        <td width="93" align="center"><a href="#page2" class="link"><img src="images/reser.png"></a><br>Reservar</td>
+        <td width="93" align="center"><a href="#page3" class="link"><img src="images/via.png"></a><br>Mis viajes</td>
+        <td width="93" align="center"><a href="#page4" class="link"><img src="images/cuen.png"></a><br>Mi cuenta</td>
+        <td width="93" align="center"><a href="#page5" class="link"><img src="images/info.png"></a><br>Información</td>
+        </table>
+	</div>
+</div>
+
+<div data-role="page" id="page3">
+	<div data-role="header">
+		<h1>Mis Viajes</h1>
+	</div>
+	<div data-role="content">	
+		<div class="contenido">
+        Contenido		
+	</div>
+    </div>
+	<div data-role="footer">
+		<table align="center">
+        <td width="93" align="center"><a href="index.html" class="link"><img src="images/inicio.png"></a><br>Inicio</td>
+        <td width="93" align="center"><a href="#page2" class="link"><img src="images/reser.png"></a><br>Reservar</td>
+        <td width="93" align="center"><a href="#page3" class="link"><img src="images/via.png"></a><br>Mis viajes</td>
+        <td width="93" align="center"><a href="#page4" class="link"><img src="images/cuen.png"></a><br>Mi cuenta</td>
+        <td width="93" align="center"><a href="#page5" class="link"><img src="images/info.png"></a><br>Información</td>
+        </table>
+	</div>
+</div>
+
+<div data-role="page" id="page4">
+	<div data-role="header">
+		<h1>Mi cuenta</h1>
+	</div>
+	<div data-role="content">	
+		<div class="contenido">
+        Contenido		
+	</div>		
+	</div>
+	<div data-role="footer">
+		<table align="center">
+        <td width="93" align="center"><a href="index.html" class="link"><img src="images/inicio.png"></a><br>Inicio</td>
+        <td width="93" align="center"><a href="#page2" class="link"><img src="images/reser.png"></a><br>Reservar</td>
+        <td width="93" align="center"><a href="#page3" class="link"><img src="images/via.png"></a><br>Mis viajes</td>
+        <td width="93" align="center"><a href="#page4" class="link"><img src="images/cuen.png"></a><br>Mi cuenta</td>
+        <td width="93" align="center"><a href="#page5" class="link"><img src="images/info.png"></a><br>Información</td>
+        </table>
+	</div>
+</div>
+
+<div data-role="page" id="page5">
+	<div data-role="header">
+		<h1>Información</h1>
+	</div>
+	<div data-role="content">	
+		<div class="contenido"><p>ReserTicks es creado para el fin de ahorrar el tiempo al momento de comprar un pasaje o boleto. Ya que los pasajeros esperan mucho tiempo para comprar su boleto.<br> Pero ahora eso ya cambio, Gracias a ReserTicks, que te permite reservar tu boleto de forma rapida e instantanea.</p><p>Nuestros creadores</p><p><table width="200" border="1px" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td>Leyton Arévalo</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><img src="#"></td>
+  </tr>
+</table>
+</p></div><br>
+        <div class="contenido">
+        <table>
+        <tr>¿Qué opinas de ReserTicks?</tr>
+        <tr>
+        <form action="#">
+        <input type="text" name="txtopi" id="textopi" placeholder="Qué le parece ReserTicks?">
+        </form>
+        </tr>
+        <tr><label><input type="button" id="opi" name="opi" value="Opinar"></label></tr>
+        </table>		
+	</div>		
+	</div>
+	<div data-role="footer">
+		<table align="center">
+        <td width="93" align="center"><a href="index.html" class="link"><img src="images/inicio.png"></a><br>Inicio</td>
+        <td width="93" align="center"><a href="#page2" class="link"><img src="images/reser.png"></a><br>Reservar</td>
+        <td width="93" align="center"><a href="#page3" class="link"><img src="images/via.png"></a><br>Mis viajes</td>
+        <td width="93" align="center"><a href="#page4" class="link"><img src="images/cuen.png"></a><br>Mi cuenta</td>
+        <td width="93" align="center"><a href="#page5" class="link"><img src="images/info.png"></a><br>Información</td>
+        </table>
+	</div>
+</div>
+
+</body>
+</html>
